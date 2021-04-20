@@ -1,0 +1,41 @@
+body{
+    margin: 50pt;
+}
+button-1{
+    background-color:white;
+    font-size: 20px;
+    color: turquoise;
+    border-radius: 20px;
+    border: 2px solid;
+    padding-bottom: 10px;
+    margin-bottom: 15px; 
+    display: block;
+    width: 125px;
+    height: 15px;
+    text-align: center;
+}
+button-2{
+    border-radius: 50%;
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+    margin-top: auto;
+    padding: 15px;
+    display: block;
+    height: 20px;
+    width: 20px;
+    font-size: 26pt;
+}
+button-3{
+    background-color:cornflowerblue;
+    border: 2px solid black;
+    color: white;
+    margin-top: 30px;
+    /* padding-top: 5px; */
+    display: block;
+    height: 20px;
+    width: 150px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 5px black;
+}
